@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00796B</color>
+    <color name="colorPrimaryDark">#6200EE</color>
+    <color name="colorAccent">#3700B3</color>
+    <color name="vertClair">#03DAC5</color>
+    <color name="gris">#82B926</color>
+    <color name="jaune">#666666</color>
+    <color name="vert">#FFFF00</color>
+    <color name="orange">#3C8D2F</color>
+    <color name="rouge">#FA9F00</color>
+    <color name="rose">#FF0000</color>
+    <color name="turquoise">#D32F2F</color>
+    <color name="md_red_500">#00796B</color>
+    <color name="md_red_700">#970606</color>
+    <color name="md_yellow_A400">#770404</color>
+
+    <color name="md_lime_500">#FBC02D</color>
+    <color name="md_lime_700">#6D9904</color>
+    <color name="md_amber_A400">#587C02</color>
+
+    <color name="md_green_500">#F55E0C</color>
+    <color name="md_green_700">#047204</color>
+    <color name="md_pink_A400">#035203</color>
+
+    <color name="md_blue_500">#D32F2F</color>
+    <color name="md_blue_700">#070786</color>
+    <color name="md_turquoise_A400">#04045E</color>
+</resources>
